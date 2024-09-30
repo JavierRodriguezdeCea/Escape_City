@@ -1,7 +1,7 @@
 <h1>🌆Escape City🌆</h1>
 <h2>¡Encuentra el puerto y escapa de la isla!</h2>
 
-<p>¡Bienvenido al juego. En este increible rompecabezas, te despiertas en una isla misteriosa, sin recordar cómo llegaste allí. Todo lo que ves a tu alrededor es un frondoso parque lleno de árboles y un parque infantil. No sabes mucho más... tu unico recuerdo es que debes llegar al puerto y tomar el ferry para poder escapar hacia la libertad.</p>
+<p>¡¡Bienvenido!! En este increible rompecabezas, te despiertas en una isla misteriosa, sin recordar cómo llegaste allí. Todo lo que ves a tu alrededor es un frondoso parque lleno de árboles y un parque infantil. No sabes mucho más... tu unico recuerdo es que debes llegar al puerto y tomar el ferry para poder escapar hacia la libertad.</p>
 
 <p>Pero, ¡HAY UN PROBLEMA!  No sabes dónde está el puerto🌊.  Para encontrarlo, tendrás que explorar distintas ubicaciones de la isla, resolver acertijos y recolectar fragmentos de mapas que te guiarán a tu salida.</p>
 
